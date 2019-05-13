@@ -8,6 +8,8 @@ import cookielib
 
 GHT = '''
 '''
+clear
+
 print "Gunakan Dengan Bijak"
 print "CTRL+C Untuk Keluar"
 print "Thanks To Mr.gantai"
