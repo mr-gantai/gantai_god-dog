@@ -11,9 +11,6 @@ GHT = '''
 print "Gunakan Dengan Bijak"
 print "CTRL+C Untuk Keluar"
 print "Thanks To Mr.gantai"
-print "garut hacktivist"
-print "jika ada yang di tanyakan .. silahkan hubungi : 089630058754"
-
 
 email = str(raw_input("[*]=> Masukan ID Korban : "))
 passwordlist = str(raw_input("List Password.txt : "))
