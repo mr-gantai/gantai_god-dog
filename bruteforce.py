@@ -8,9 +8,7 @@ import cookielib
 
 GHT = '''
 '''
-print "
-
-                           "
+print "team garut hacktivist"
 print "Gunakan Dengan Bijak"
 print "CTRL+C Untuk Keluar"
 print "Thanks To Mr.gantai"
