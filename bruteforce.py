@@ -1,5 +1,4 @@
 #!usr/bin/python
-clear
 
 import sys
 import random
